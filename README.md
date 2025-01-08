@@ -1,8 +1,12 @@
 # Reddit_Clone
 Contents of this file: 
+
 • Project overview 
+
 • How to run? 
+
 • Implementation Details 
+
 • Key Components
 
 Project Overview: 
